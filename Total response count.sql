@@ -1,0 +1,1 @@
+Select Count(*) As Total_response from `untitled form`
