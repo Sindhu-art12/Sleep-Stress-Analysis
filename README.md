@@ -15,16 +15,19 @@ Data types: Survey data
 **Tools used**
 SQL (Data Cleaning and analysis)
 Excel (Charts and visualization)
-Data Type: Survey data
+Power bi (Dashboard Creation)
 
 **Analysis Perfomed**
-Average stress level by sleep hours
-Average stress level by workout frequency
-Comparison of different lifestyle factors
-Data cleaning and aggregation using SQL
+Calculated average stress levels across different groups
+Analyzed sleep duration distribution
+Compared sleep quality and stress levels
+Analyzed device usage impact on stress
+Examined night wake-up patterns and stress levels
+Calculated response count and summary statistics
 
 **Key Findings**
 Sleep duration showed variation in average stress levels.
 Stress levels differed among workout groups.
+Lifestyle habits appeared to influence reported stress levels
 Lifestyle habits appeared to infulence reported stress.
 
