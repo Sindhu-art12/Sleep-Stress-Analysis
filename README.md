@@ -18,12 +18,23 @@ Excel (Charts and visualization)
 Power bi (Dashboard Creation)
 
 **Analysis Perfomed**
-Calculated average stress levels across different groups
-Analyzed sleep duration distribution
-Compared sleep quality and stress levels
-Analyzed device usage impact on stress
-Examined night wake-up patterns and stress levels
+Analyzed average stress levels across participants
+Examined the relationship between sleep duration and stress levels
+Compared sleep quality with average stress levels
+Analyzed the impact of screen time on stress
+Studied exercise frequency and its relationship with stress
+Examined bed time patterns and stress levels
+Analyzed the effect of waking up during the night on stress
+Identified common sources of stress among participants
+Compared device usage patterns with stress levels
 Calculated response count and summary statistics
+
+**SQL Skills Demonstrated**
+Select
+Count()
+Avg()
+Group by
+Order by
 
 **Key Findings**
 Sleep duration showed variation in average stress levels.
