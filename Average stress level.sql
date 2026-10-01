@@ -1,0 +1,1 @@
+Select Avg (`Stress level rate`) As avg_stress from `untitled form`
